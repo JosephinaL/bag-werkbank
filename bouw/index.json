@@ -1,0 +1,2059 @@
+{
+"peil": "2026-11-01",
+"buurtjaar": "2026",
+"formaat": 1,
+"gemeenten": {
+"0014": {
+"naam": "Groningen",
+"panden": 2882,
+"vbo": 6079,
+"kb": 155
+},
+"0034": {
+"naam": "Almere",
+"panden": 5021,
+"vbo": 8526,
+"kb": 227
+},
+"0037": {
+"naam": "Stadskanaal",
+"panden": 356,
+"vbo": 464,
+"kb": 19
+},
+"0047": {
+"naam": "Veendam",
+"panden": 325,
+"vbo": 466,
+"kb": 17
+},
+"0050": {
+"naam": "Zeewolde",
+"panden": 1178,
+"vbo": 810,
+"kb": 38
+},
+"0059": {
+"naam": "Achtkarspelen",
+"panden": 311,
+"vbo": 408,
+"kb": 17
+},
+"0060": {
+"naam": "Ameland",
+"panden": 194,
+"vbo": 186,
+"kb": 10
+},
+"0072": {
+"naam": "Harlingen",
+"panden": 265,
+"vbo": 490,
+"kb": 14
+},
+"0074": {
+"naam": "Heerenveen",
+"panden": 827,
+"vbo": 815,
+"kb": 33
+},
+"0080": {
+"naam": "Leeuwarden",
+"panden": 3202,
+"vbo": 4227,
+"kb": 129
+},
+"0085": {
+"naam": "Ooststellingwerf",
+"panden": 569,
+"vbo": 518,
+"kb": 24
+},
+"0086": {
+"naam": "Opsterland",
+"panden": 717,
+"vbo": 456,
+"kb": 27
+},
+"0088": {
+"naam": "Schiermonnikoog",
+"panden": 30,
+"vbo": 25,
+"kb": 2
+},
+"0090": {
+"naam": "Smallingerland",
+"panden": 1128,
+"vbo": 884,
+"kb": 42
+},
+"0093": {
+"naam": "Terschelling",
+"panden": 198,
+"vbo": 149,
+"kb": 9
+},
+"0096": {
+"naam": "Vlieland",
+"panden": 87,
+"vbo": 90,
+"kb": 4
+},
+"0098": {
+"naam": "Weststellingwerf",
+"panden": 892,
+"vbo": 499,
+"kb": 31
+},
+"0106": {
+"naam": "Assen",
+"panden": 1557,
+"vbo": 1974,
+"kb": 61
+},
+"0109": {
+"naam": "Coevorden",
+"panden": 630,
+"vbo": 498,
+"kb": 29
+},
+"0114": {
+"naam": "Emmen",
+"panden": 1967,
+"vbo": 1860,
+"kb": 75
+},
+"0118": {
+"naam": "Hoogeveen",
+"panden": 689,
+"vbo": 1028,
+"kb": 36
+},
+"0119": {
+"naam": "Meppel",
+"panden": 1053,
+"vbo": 1160,
+"kb": 41
+},
+"0141": {
+"naam": "Almelo",
+"panden": 1897,
+"vbo": 1823,
+"kb": 76
+},
+"0147": {
+"naam": "Borne",
+"panden": 967,
+"vbo": 498,
+"kb": 32
+},
+"0148": {
+"naam": "Dalfsen",
+"panden": 775,
+"vbo": 600,
+"kb": 32
+},
+"0150": {
+"naam": "Deventer",
+"panden": 1634,
+"vbo": 2034,
+"kb": 69
+},
+"0153": {
+"naam": "Enschede",
+"panden": 2064,
+"vbo": 3309,
+"kb": 95
+},
+"0158": {
+"naam": "Haaksbergen",
+"panden": 456,
+"vbo": 501,
+"kb": 21
+},
+"0160": {
+"naam": "Hardenberg",
+"panden": 2041,
+"vbo": 1814,
+"kb": 86
+},
+"0163": {
+"naam": "Hellendoorn",
+"panden": 581,
+"vbo": 393,
+"kb": 25
+},
+"0164": {
+"naam": "Hengelo (O.)",
+"panden": 2030,
+"vbo": 2410,
+"kb": 83
+},
+"0166": {
+"naam": "Kampen",
+"panden": 1201,
+"vbo": 1036,
+"kb": 45
+},
+"0168": {
+"naam": "Losser",
+"panden": 598,
+"vbo": 356,
+"kb": 23
+},
+"0171": {
+"naam": "Noordoostpolder",
+"panden": 1959,
+"vbo": 2327,
+"kb": 83
+},
+"0173": {
+"naam": "Oldenzaal",
+"panden": 439,
+"vbo": 392,
+"kb": 19
+},
+"0175": {
+"naam": "Ommen",
+"panden": 504,
+"vbo": 498,
+"kb": 24
+},
+"0177": {
+"naam": "Raalte",
+"panden": 4902,
+"vbo": 921,
+"kb": 121
+},
+"0180": {
+"naam": "Staphorst",
+"panden": 1068,
+"vbo": 739,
+"kb": 42
+},
+"0183": {
+"naam": "Tubbergen",
+"panden": 739,
+"vbo": 475,
+"kb": 33
+},
+"0184": {
+"naam": "Urk",
+"panden": 567,
+"vbo": 475,
+"kb": 21
+},
+"0189": {
+"naam": "Wierden",
+"panden": 517,
+"vbo": 451,
+"kb": 24
+},
+"0193": {
+"naam": "Zwolle",
+"panden": 2720,
+"vbo": 3421,
+"kb": 114
+},
+"0197": {
+"naam": "Aalten",
+"panden": 701,
+"vbo": 359,
+"kb": 25
+},
+"0200": {
+"naam": "Apeldoorn",
+"panden": 2154,
+"vbo": 3189,
+"kb": 102
+},
+"0202": {
+"naam": "Arnhem",
+"panden": 1282,
+"vbo": 3182,
+"kb": 76
+},
+"0203": {
+"naam": "Barneveld",
+"panden": 1865,
+"vbo": 1868,
+"kb": 82
+},
+"0209": {
+"naam": "Beuningen",
+"panden": 407,
+"vbo": 161,
+"kb": 14
+},
+"0213": {
+"naam": "Brummen",
+"panden": 314,
+"vbo": 185,
+"kb": 11
+},
+"0214": {
+"naam": "Buren",
+"panden": 1132,
+"vbo": 710,
+"kb": 40
+},
+"0216": {
+"naam": "Culemborg",
+"panden": 612,
+"vbo": 659,
+"kb": 23
+},
+"0221": {
+"naam": "Doesburg",
+"panden": 236,
+"vbo": 172,
+"kb": 7
+},
+"0222": {
+"naam": "Doetinchem",
+"panden": 1569,
+"vbo": 1683,
+"kb": 63
+},
+"0225": {
+"naam": "Druten",
+"panden": 433,
+"vbo": 762,
+"kb": 22
+},
+"0226": {
+"naam": "Duiven",
+"panden": 287,
+"vbo": 335,
+"kb": 13
+},
+"0228": {
+"naam": "Ede",
+"panden": 2889,
+"vbo": 3209,
+"kb": 121
+},
+"0230": {
+"naam": "Elburg",
+"panden": 481,
+"vbo": 357,
+"kb": 20
+},
+"0232": {
+"naam": "Epe",
+"panden": 1371,
+"vbo": 1015,
+"kb": 52
+},
+"0233": {
+"naam": "Ermelo",
+"panden": 960,
+"vbo": 1181,
+"kb": 46
+},
+"0243": {
+"naam": "Harderwijk",
+"panden": 1726,
+"vbo": 1664,
+"kb": 63
+},
+"0244": {
+"naam": "Hattem",
+"panden": 832,
+"vbo": 176,
+"kb": 22
+},
+"0246": {
+"naam": "Heerde",
+"panden": 620,
+"vbo": 569,
+"kb": 24
+},
+"0252": {
+"naam": "Heumen",
+"panden": 356,
+"vbo": 148,
+"kb": 12
+},
+"0262": {
+"naam": "Lochem",
+"panden": 791,
+"vbo": 528,
+"kb": 30
+},
+"0263": {
+"naam": "Maasdriel",
+"panden": 883,
+"vbo": 792,
+"kb": 36
+},
+"0267": {
+"naam": "Nijkerk",
+"panden": 1948,
+"vbo": 2031,
+"kb": 75
+},
+"0268": {
+"naam": "Nijmegen",
+"panden": 1780,
+"vbo": 6772,
+"kb": 131
+},
+"0269": {
+"naam": "Oldebroek",
+"panden": 1065,
+"vbo": 782,
+"kb": 39
+},
+"0273": {
+"naam": "Putten",
+"panden": 674,
+"vbo": 495,
+"kb": 26
+},
+"0274": {
+"naam": "Renkum",
+"panden": 338,
+"vbo": 630,
+"kb": 20
+},
+"0275": {
+"naam": "Rheden",
+"panden": 217,
+"vbo": 481,
+"kb": 14
+},
+"0277": {
+"naam": "Rozendaal",
+"panden": 6,
+"vbo": 2,
+"kb": 1
+},
+"0279": {
+"naam": "Scherpenzeel",
+"panden": 447,
+"vbo": 409,
+"kb": 16
+},
+"0281": {
+"naam": "Tiel",
+"panden": 459,
+"vbo": 805,
+"kb": 25
+},
+"0285": {
+"naam": "Voorst",
+"panden": 664,
+"vbo": 347,
+"kb": 24
+},
+"0289": {
+"naam": "Wageningen",
+"panden": 227,
+"vbo": 648,
+"kb": 16
+},
+"0293": {
+"naam": "Westervoort",
+"panden": 198,
+"vbo": 105,
+"kb": 6
+},
+"0294": {
+"naam": "Winterswijk",
+"panden": 659,
+"vbo": 771,
+"kb": 31
+},
+"0296": {
+"naam": "Wijchen",
+"panden": 1076,
+"vbo": 795,
+"kb": 39
+},
+"0297": {
+"naam": "Zaltbommel",
+"panden": 1163,
+"vbo": 1437,
+"kb": 50
+},
+"0299": {
+"naam": "Zevenaar",
+"panden": 960,
+"vbo": 1084,
+"kb": 40
+},
+"0301": {
+"naam": "Zutphen",
+"panden": 557,
+"vbo": 703,
+"kb": 23
+},
+"0302": {
+"naam": "Nunspeet",
+"panden": 602,
+"vbo": 513,
+"kb": 27
+},
+"0303": {
+"naam": "Dronten",
+"panden": 1555,
+"vbo": 2013,
+"kb": 66
+},
+"0307": {
+"naam": "Amersfoort",
+"panden": 3498,
+"vbo": 4366,
+"kb": 135
+},
+"0308": {
+"naam": "Baarn",
+"panden": 267,
+"vbo": 381,
+"kb": 13
+},
+"0310": {
+"naam": "De Bilt",
+"panden": 500,
+"vbo": 777,
+"kb": 26
+},
+"0312": {
+"naam": "Bunnik",
+"panden": 185,
+"vbo": 137,
+"kb": 8
+},
+"0313": {
+"naam": "Bunschoten",
+"panden": 820,
+"vbo": 612,
+"kb": 26
+},
+"0317": {
+"naam": "Eemnes",
+"panden": 456,
+"vbo": 397,
+"kb": 16
+},
+"0321": {
+"naam": "Houten",
+"panden": 597,
+"vbo": 801,
+"kb": 27
+},
+"0327": {
+"naam": "Leusden",
+"panden": 472,
+"vbo": 488,
+"kb": 19
+},
+"0331": {
+"naam": "Lopik",
+"panden": 433,
+"vbo": 320,
+"kb": 18
+},
+"0335": {
+"naam": "Montfoort",
+"panden": 467,
+"vbo": 376,
+"kb": 17
+},
+"0339": {
+"naam": "Renswoude",
+"panden": 315,
+"vbo": 186,
+"kb": 11
+},
+"0340": {
+"naam": "Rhenen",
+"panden": 421,
+"vbo": 373,
+"kb": 17
+},
+"0342": {
+"naam": "Soest",
+"panden": 968,
+"vbo": 1296,
+"kb": 41
+},
+"0344": {
+"naam": "Utrecht",
+"panden": 3067,
+"vbo": 19133,
+"kb": 262
+},
+"0345": {
+"naam": "Veenendaal",
+"panden": 1818,
+"vbo": 2765,
+"kb": 79
+},
+"0351": {
+"naam": "Woudenberg",
+"panden": 571,
+"vbo": 402,
+"kb": 20
+},
+"0352": {
+"naam": "Wijk bij Duurstede",
+"panden": 239,
+"vbo": 397,
+"kb": 13
+},
+"0353": {
+"naam": "IJsselstein",
+"panden": 185,
+"vbo": 524,
+"kb": 14
+},
+"0355": {
+"naam": "Zeist",
+"panden": 866,
+"vbo": 1815,
+"kb": 50
+},
+"0356": {
+"naam": "Nieuwegein",
+"panden": 1208,
+"vbo": 2746,
+"kb": 62
+},
+"0358": {
+"naam": "Aalsmeer",
+"panden": 817,
+"vbo": 1083,
+"kb": 37
+},
+"0361": {
+"naam": "Alkmaar",
+"panden": 937,
+"vbo": 3208,
+"kb": 68
+},
+"0362": {
+"naam": "Amstelveen",
+"panden": 792,
+"vbo": 2908,
+"kb": 55
+},
+"0363": {
+"naam": "Amsterdam",
+"panden": 4105,
+"vbo": 45767,
+"kb": 638
+},
+"0373": {
+"naam": "Bergen (NH.)",
+"panden": 619,
+"vbo": 818,
+"kb": 31
+},
+"0375": {
+"naam": "Beverwijk",
+"panden": 354,
+"vbo": 950,
+"kb": 24
+},
+"0376": {
+"naam": "Blaricum",
+"panden": 124,
+"vbo": 59,
+"kb": 6
+},
+"0377": {
+"naam": "Bloemendaal",
+"panden": 376,
+"vbo": 353,
+"kb": 16
+},
+"0383": {
+"naam": "Castricum",
+"panden": 676,
+"vbo": 819,
+"kb": 31
+},
+"0384": {
+"naam": "Diemen",
+"panden": 222,
+"vbo": 1858,
+"kb": 29
+},
+"0385": {
+"naam": "Edam-Volendam",
+"panden": 688,
+"vbo": 762,
+"kb": 27
+},
+"0388": {
+"naam": "Enkhuizen",
+"panden": 280,
+"vbo": 298,
+"kb": 13
+},
+"0392": {
+"naam": "Haarlem",
+"panden": 1078,
+"vbo": 7706,
+"kb": 123
+},
+"0394": {
+"naam": "Haarlemmermeer",
+"panden": 2066,
+"vbo": 6235,
+"kb": 139
+},
+"0396": {
+"naam": "Heemskerk",
+"panden": 154,
+"vbo": 319,
+"kb": 9
+},
+"0397": {
+"naam": "Heemstede",
+"panden": 108,
+"vbo": 207,
+"kb": 7
+},
+"0399": {
+"naam": "Heiloo",
+"panden": 444,
+"vbo": 471,
+"kb": 18
+},
+"0400": {
+"naam": "Den Helder",
+"panden": 551,
+"vbo": 768,
+"kb": 28
+},
+"0402": {
+"naam": "Hilversum",
+"panden": 715,
+"vbo": 2328,
+"kb": 40
+},
+"0405": {
+"naam": "Hoorn",
+"panden": 746,
+"vbo": 2455,
+"kb": 52
+},
+"0406": {
+"naam": "Huizen",
+"panden": 645,
+"vbo": 691,
+"kb": 26
+},
+"0415": {
+"naam": "Landsmeer",
+"panden": 54,
+"vbo": 120,
+"kb": 4
+},
+"0417": {
+"naam": "Laren (NH.)",
+"panden": 190,
+"vbo": 171,
+"kb": 10
+},
+"0420": {
+"naam": "Medemblik",
+"panden": 1712,
+"vbo": 911,
+"kb": 53
+},
+"0431": {
+"naam": "Oostzaan",
+"panden": 271,
+"vbo": 149,
+"kb": 9
+},
+"0432": {
+"naam": "Opmeer",
+"panden": 266,
+"vbo": 185,
+"kb": 10
+},
+"0437": {
+"naam": "Ouder-Amstel",
+"panden": 188,
+"vbo": 1427,
+"kb": 23
+},
+"0439": {
+"naam": "Purmerend",
+"panden": 1286,
+"vbo": 2797,
+"kb": 68
+},
+"0441": {
+"naam": "Schagen",
+"panden": 1445,
+"vbo": 1601,
+"kb": 63
+},
+"0448": {
+"naam": "Texel",
+"panden": 680,
+"vbo": 780,
+"kb": 31
+},
+"0450": {
+"naam": "Uitgeest",
+"panden": 145,
+"vbo": 184,
+"kb": 8
+},
+"0451": {
+"naam": "Uithoorn",
+"panden": 328,
+"vbo": 567,
+"kb": 16
+},
+"0453": {
+"naam": "Velsen",
+"panden": 500,
+"vbo": 909,
+"kb": 28
+},
+"0473": {
+"naam": "Zandvoort",
+"panden": 127,
+"vbo": 338,
+"kb": 11
+},
+"0479": {
+"naam": "Zaanstad",
+"panden": 4319,
+"vbo": 7438,
+"kb": 188
+},
+"0482": {
+"naam": "Alblasserdam",
+"panden": 333,
+"vbo": 543,
+"kb": 17
+},
+"0484": {
+"naam": "Alphen aan den Rijn",
+"panden": 2405,
+"vbo": 3462,
+"kb": 101
+},
+"0489": {
+"naam": "Barendrecht",
+"panden": 770,
+"vbo": 968,
+"kb": 28
+},
+"0498": {
+"naam": "Drechterland",
+"panden": 675,
+"vbo": 529,
+"kb": 25
+},
+"0502": {
+"naam": "Capelle aan den IJssel",
+"panden": 2268,
+"vbo": 1712,
+"kb": 61
+},
+"0503": {
+"naam": "Delft",
+"panden": 578,
+"vbo": 2702,
+"kb": 39
+},
+"0505": {
+"naam": "Dordrecht",
+"panden": 1565,
+"vbo": 3148,
+"kb": 77
+},
+"0512": {
+"naam": "Gorinchem",
+"panden": 876,
+"vbo": 764,
+"kb": 29
+},
+"0513": {
+"naam": "Gouda",
+"panden": 1110,
+"vbo": 2480,
+"kb": 58
+},
+"0518": {
+"naam": "'s-Gravenhage",
+"panden": 1994,
+"vbo": 16859,
+"kb": 258
+},
+"0523": {
+"naam": "Hardinxveld-Giessendam",
+"panden": 565,
+"vbo": 462,
+"kb": 19
+},
+"0531": {
+"naam": "Hendrik-Ido-Ambacht",
+"panden": 990,
+"vbo": 1047,
+"kb": 38
+},
+"0532": {
+"naam": "Stede Broec",
+"panden": 418,
+"vbo": 309,
+"kb": 15
+},
+"0534": {
+"naam": "Hillegom",
+"panden": 647,
+"vbo": 1177,
+"kb": 30
+},
+"0537": {
+"naam": "Katwijk",
+"panden": 441,
+"vbo": 917,
+"kb": 24
+},
+"0542": {
+"naam": "Krimpen aan den IJssel",
+"panden": 668,
+"vbo": 392,
+"kb": 20
+},
+"0546": {
+"naam": "Leiden",
+"panden": 854,
+"vbo": 6814,
+"kb": 112
+},
+"0547": {
+"naam": "Leiderdorp",
+"panden": 144,
+"vbo": 138,
+"kb": 6
+},
+"0553": {
+"naam": "Lisse",
+"panden": 376,
+"vbo": 730,
+"kb": 20
+},
+"0556": {
+"naam": "Maassluis",
+"panden": 938,
+"vbo": 1066,
+"kb": 33
+},
+"0569": {
+"naam": "Nieuwkoop",
+"panden": 847,
+"vbo": 680,
+"kb": 35
+},
+"0575": {
+"naam": "Noordwijk",
+"panden": 954,
+"vbo": 1440,
+"kb": 45
+},
+"0579": {
+"naam": "Oegstgeest",
+"panden": 445,
+"vbo": 818,
+"kb": 22
+},
+"0589": {
+"naam": "Oudewater",
+"panden": 195,
+"vbo": 142,
+"kb": 8
+},
+"0590": {
+"naam": "Papendrecht",
+"panden": 206,
+"vbo": 415,
+"kb": 10
+},
+"0597": {
+"naam": "Ridderkerk",
+"panden": 341,
+"vbo": 969,
+"kb": 23
+},
+"0599": {
+"naam": "Rotterdam",
+"panden": 4518,
+"vbo": 25959,
+"kb": 337
+},
+"0603": {
+"naam": "Rijswijk (ZH.)",
+"panden": 538,
+"vbo": 5556,
+"kb": 55
+},
+"0606": {
+"naam": "Schiedam",
+"panden": 373,
+"vbo": 2085,
+"kb": 30
+},
+"0610": {
+"naam": "Sliedrecht",
+"panden": 358,
+"vbo": 352,
+"kb": 13
+},
+"0613": {
+"naam": "Albrandswaard",
+"panden": 131,
+"vbo": 253,
+"kb": 9
+},
+"0622": {
+"naam": "Vlaardingen",
+"panden": 928,
+"vbo": 1785,
+"kb": 42
+},
+"0626": {
+"naam": "Voorschoten",
+"panden": 384,
+"vbo": 580,
+"kb": 18
+},
+"0627": {
+"naam": "Waddinxveen",
+"panden": 993,
+"vbo": 1763,
+"kb": 47
+},
+"0629": {
+"naam": "Wassenaar",
+"panden": 474,
+"vbo": 349,
+"kb": 19
+},
+"0632": {
+"naam": "Woerden",
+"panden": 617,
+"vbo": 1262,
+"kb": 33
+},
+"0637": {
+"naam": "Zoetermeer",
+"panden": 659,
+"vbo": 2652,
+"kb": 45
+},
+"0638": {
+"naam": "Zoeterwoude",
+"panden": 194,
+"vbo": 143,
+"kb": 8
+},
+"0642": {
+"naam": "Zwijndrecht",
+"panden": 1142,
+"vbo": 1351,
+"kb": 40
+},
+"0654": {
+"naam": "Borsele",
+"panden": 594,
+"vbo": 363,
+"kb": 24
+},
+"0664": {
+"naam": "Goes",
+"panden": 1443,
+"vbo": 1960,
+"kb": 59
+},
+"0668": {
+"naam": "West Maas en Waal",
+"panden": 1271,
+"vbo": 889,
+"kb": 44
+},
+"0677": {
+"naam": "Hulst",
+"panden": 1264,
+"vbo": 846,
+"kb": 43
+},
+"0678": {
+"naam": "Kapelle",
+"panden": 514,
+"vbo": 321,
+"kb": 17
+},
+"0687": {
+"naam": "Middelburg (Z.)",
+"panden": 1214,
+"vbo": 1406,
+"kb": 50
+},
+"0703": {
+"naam": "Reimerswaal",
+"panden": 495,
+"vbo": 354,
+"kb": 21
+},
+"0715": {
+"naam": "Terneuzen",
+"panden": 1539,
+"vbo": 1592,
+"kb": 56
+},
+"0716": {
+"naam": "Tholen",
+"panden": 1456,
+"vbo": 1209,
+"kb": 53
+},
+"0717": {
+"naam": "Veere",
+"panden": 661,
+"vbo": 774,
+"kb": 35
+},
+"0718": {
+"naam": "Vlissingen",
+"panden": 747,
+"vbo": 1057,
+"kb": 31
+},
+"0736": {
+"naam": "De Ronde Venen",
+"panden": 1030,
+"vbo": 1114,
+"kb": 41
+},
+"0737": {
+"naam": "Tytsjerksteradiel",
+"panden": 757,
+"vbo": 536,
+"kb": 28
+},
+"0743": {
+"naam": "Asten",
+"panden": 667,
+"vbo": 558,
+"kb": 27
+},
+"0744": {
+"naam": "Baarle-Nassau",
+"panden": 420,
+"vbo": 218,
+"kb": 15
+},
+"0748": {
+"naam": "Bergen op Zoom",
+"panden": 1034,
+"vbo": 1527,
+"kb": 44
+},
+"0753": {
+"naam": "Best",
+"panden": 1022,
+"vbo": 899,
+"kb": 39
+},
+"0755": {
+"naam": "Boekel",
+"panden": 744,
+"vbo": 512,
+"kb": 29
+},
+"0757": {
+"naam": "Boxtel",
+"panden": 626,
+"vbo": 595,
+"kb": 26
+},
+"0758": {
+"naam": "Breda",
+"panden": 2040,
+"vbo": 6176,
+"kb": 135
+},
+"0762": {
+"naam": "Deurne",
+"panden": 1330,
+"vbo": 1060,
+"kb": 47
+},
+"0765": {
+"naam": "Pekela",
+"panden": 612,
+"vbo": 340,
+"kb": 18
+},
+"0766": {
+"naam": "Dongen",
+"panden": 481,
+"vbo": 351,
+"kb": 18
+},
+"0770": {
+"naam": "Eersel",
+"panden": 794,
+"vbo": 563,
+"kb": 32
+},
+"0772": {
+"naam": "Eindhoven",
+"panden": 2293,
+"vbo": 11667,
+"kb": 202
+},
+"0777": {
+"naam": "Etten-Leur",
+"panden": 517,
+"vbo": 571,
+"kb": 22
+},
+"0779": {
+"naam": "Geertruidenberg",
+"panden": 280,
+"vbo": 472,
+"kb": 16
+},
+"0784": {
+"naam": "Gilze en Rijen",
+"panden": 970,
+"vbo": 643,
+"kb": 34
+},
+"0785": {
+"naam": "Goirle",
+"panden": 625,
+"vbo": 586,
+"kb": 25
+},
+"0794": {
+"naam": "Helmond",
+"panden": 1726,
+"vbo": 2375,
+"kb": 73
+},
+"0796": {
+"naam": "'s-Hertogenbosch",
+"panden": 2043,
+"vbo": 3965,
+"kb": 109
+},
+"0797": {
+"naam": "Heusden",
+"panden": 904,
+"vbo": 777,
+"kb": 37
+},
+"0798": {
+"naam": "Hilvarenbeek",
+"panden": 746,
+"vbo": 536,
+"kb": 30
+},
+"0809": {
+"naam": "Loon op Zand",
+"panden": 572,
+"vbo": 1198,
+"kb": 33
+},
+"0820": {
+"naam": "Nuenen, Gerwen en Nederwetten",
+"panden": 644,
+"vbo": 767,
+"kb": 29
+},
+"0823": {
+"naam": "Oirschot",
+"panden": 698,
+"vbo": 376,
+"kb": 26
+},
+"0824": {
+"naam": "Oisterwijk",
+"panden": 960,
+"vbo": 686,
+"kb": 40
+},
+"0826": {
+"naam": "Oosterhout",
+"panden": 399,
+"vbo": 1436,
+"kb": 32
+},
+"0828": {
+"naam": "Oss",
+"panden": 2187,
+"vbo": 2828,
+"kb": 101
+},
+"0840": {
+"naam": "Rucphen",
+"panden": 687,
+"vbo": 545,
+"kb": 29
+},
+"0845": {
+"naam": "Sint-Michielsgestel",
+"panden": 344,
+"vbo": 471,
+"kb": 19
+},
+"0847": {
+"naam": "Someren",
+"panden": 800,
+"vbo": 522,
+"kb": 33
+},
+"0848": {
+"naam": "Son en Breugel",
+"panden": 252,
+"vbo": 149,
+"kb": 9
+},
+"0851": {
+"naam": "Steenbergen",
+"panden": 535,
+"vbo": 592,
+"kb": 23
+},
+"0852": {
+"naam": "Waterland",
+"panden": 765,
+"vbo": 737,
+"kb": 30
+},
+"0855": {
+"naam": "Tilburg",
+"panden": 2065,
+"vbo": 5915,
+"kb": 132
+},
+"0858": {
+"naam": "Valkenswaard",
+"panden": 625,
+"vbo": 594,
+"kb": 26
+},
+"0861": {
+"naam": "Veldhoven",
+"panden": 1155,
+"vbo": 2149,
+"kb": 59
+},
+"0865": {
+"naam": "Vught",
+"panden": 447,
+"vbo": 884,
+"kb": 25
+},
+"0866": {
+"naam": "Waalre",
+"panden": 513,
+"vbo": 646,
+"kb": 23
+},
+"0867": {
+"naam": "Waalwijk",
+"panden": 607,
+"vbo": 1241,
+"kb": 35
+},
+"0873": {
+"naam": "Woensdrecht",
+"panden": 666,
+"vbo": 495,
+"kb": 24
+},
+"0879": {
+"naam": "Zundert",
+"panden": 794,
+"vbo": 454,
+"kb": 30
+},
+"0880": {
+"naam": "Wormerland",
+"panden": 605,
+"vbo": 826,
+"kb": 24
+},
+"0882": {
+"naam": "Landgraaf",
+"panden": 457,
+"vbo": 390,
+"kb": 18
+},
+"0888": {
+"naam": "Beek (L.)",
+"panden": 78,
+"vbo": 220,
+"kb": 7
+},
+"0889": {
+"naam": "Beesel",
+"panden": 324,
+"vbo": 227,
+"kb": 12
+},
+"0893": {
+"naam": "Bergen (L.)",
+"panden": 427,
+"vbo": 332,
+"kb": 18
+},
+"0899": {
+"naam": "Brunssum",
+"panden": 496,
+"vbo": 674,
+"kb": 22
+},
+"0907": {
+"naam": "Gennep",
+"panden": 905,
+"vbo": 566,
+"kb": 29
+},
+"0917": {
+"naam": "Heerlen",
+"panden": 1305,
+"vbo": 1700,
+"kb": 56
+},
+"0928": {
+"naam": "Kerkrade",
+"panden": 568,
+"vbo": 1200,
+"kb": 30
+},
+"0935": {
+"naam": "Maastricht",
+"panden": 507,
+"vbo": 2040,
+"kb": 34
+},
+"0938": {
+"naam": "Meerssen",
+"panden": 175,
+"vbo": 207,
+"kb": 9
+},
+"0944": {
+"naam": "Mook en Middelaar",
+"panden": 321,
+"vbo": 267,
+"kb": 12
+},
+"0946": {
+"naam": "Nederweert",
+"panden": 349,
+"vbo": 212,
+"kb": 15
+},
+"0957": {
+"naam": "Roermond",
+"panden": 933,
+"vbo": 1232,
+"kb": 42
+},
+"0965": {
+"naam": "Simpelveld",
+"panden": 223,
+"vbo": 148,
+"kb": 8
+},
+"0971": {
+"naam": "Stein (L.)",
+"panden": 290,
+"vbo": 300,
+"kb": 13
+},
+"0981": {
+"naam": "Vaals",
+"panden": 174,
+"vbo": 206,
+"kb": 8
+},
+"0983": {
+"naam": "Venlo",
+"panden": 1252,
+"vbo": 2358,
+"kb": 73
+},
+"0984": {
+"naam": "Venray",
+"panden": 1444,
+"vbo": 1267,
+"kb": 57
+},
+"0986": {
+"naam": "Voerendaal",
+"panden": 119,
+"vbo": 115,
+"kb": 6
+},
+"0988": {
+"naam": "Weert",
+"panden": 680,
+"vbo": 903,
+"kb": 38
+},
+"0994": {
+"naam": "Valkenburg aan de Geul",
+"panden": 148,
+"vbo": 400,
+"kb": 12
+},
+"0995": {
+"naam": "Lelystad",
+"panden": 1616,
+"vbo": 2204,
+"kb": 68
+},
+"1507": {
+"naam": "Horst aan de Maas",
+"panden": 1624,
+"vbo": 947,
+"kb": 57
+},
+"1509": {
+"naam": "Oude IJsselstreek",
+"panden": 6651,
+"vbo": 606,
+"kb": 152
+},
+"1525": {
+"naam": "Teylingen",
+"panden": 772,
+"vbo": 807,
+"kb": 30
+},
+"1581": {
+"naam": "Utrechtse Heuvelrug",
+"panden": 1102,
+"vbo": 902,
+"kb": 44
+},
+"1586": {
+"naam": "Oost Gelre",
+"panden": 518,
+"vbo": 560,
+"kb": 26
+},
+"1598": {
+"naam": "Koggenland",
+"panden": 1026,
+"vbo": 997,
+"kb": 40
+},
+"1621": {
+"naam": "Lansingerland",
+"panden": 2801,
+"vbo": 2908,
+"kb": 102
+},
+"1640": {
+"naam": "Leudal",
+"panden": 528,
+"vbo": 412,
+"kb": 25
+},
+"1641": {
+"naam": "Maasgouw",
+"panden": 635,
+"vbo": 528,
+"kb": 25
+},
+"1652": {
+"naam": "Gemert-Bakel",
+"panden": 1855,
+"vbo": 1660,
+"kb": 73
+},
+"1655": {
+"naam": "Halderberge",
+"panden": 859,
+"vbo": 849,
+"kb": 34
+},
+"1658": {
+"naam": "Heeze-Leende",
+"panden": 693,
+"vbo": 560,
+"kb": 26
+},
+"1659": {
+"naam": "Laarbeek",
+"panden": 709,
+"vbo": 448,
+"kb": 25
+},
+"1667": {
+"naam": "Reusel-De Mierden",
+"panden": 463,
+"vbo": 385,
+"kb": 22
+},
+"1669": {
+"naam": "Roerdalen",
+"panden": 634,
+"vbo": 300,
+"kb": 21
+},
+"1674": {
+"naam": "Roosendaal",
+"panden": 814,
+"vbo": 1349,
+"kb": 40
+},
+"1676": {
+"naam": "Schouwen-Duiveland",
+"panden": 1417,
+"vbo": 1066,
+"kb": 54
+},
+"1680": {
+"naam": "Aa en Hunze",
+"panden": 614,
+"vbo": 378,
+"kb": 24
+},
+"1681": {
+"naam": "Borger-Odoorn",
+"panden": 633,
+"vbo": 339,
+"kb": 22
+},
+"1690": {
+"naam": "De Wolden",
+"panden": 586,
+"vbo": 524,
+"kb": 27
+},
+"1695": {
+"naam": "Noord-Beveland",
+"panden": 764,
+"vbo": 354,
+"kb": 24
+},
+"1696": {
+"naam": "Wijdemeren",
+"panden": 830,
+"vbo": 744,
+"kb": 31
+},
+"1699": {
+"naam": "Noordenveld",
+"panden": 698,
+"vbo": 586,
+"kb": 28
+},
+"1700": {
+"naam": "Twenterand",
+"panden": 637,
+"vbo": 549,
+"kb": 28
+},
+"1701": {
+"naam": "Westerveld",
+"panden": 435,
+"vbo": 235,
+"kb": 16
+},
+"1705": {
+"naam": "Lingewaard",
+"panden": 972,
+"vbo": 1054,
+"kb": 40
+},
+"1706": {
+"naam": "Cranendonck",
+"panden": 685,
+"vbo": 515,
+"kb": 26
+},
+"1708": {
+"naam": "Steenwijkerland",
+"panden": 1376,
+"vbo": 1031,
+"kb": 51
+},
+"1709": {
+"naam": "Moerdijk",
+"panden": 1102,
+"vbo": 1063,
+"kb": 41
+},
+"1711": {
+"naam": "Echt-Susteren",
+"panden": 778,
+"vbo": 572,
+"kb": 31
+},
+"1714": {
+"naam": "Sluis",
+"panden": 739,
+"vbo": 901,
+"kb": 39
+},
+"1719": {
+"naam": "Drimmelen",
+"panden": 985,
+"vbo": 887,
+"kb": 37
+},
+"1721": {
+"naam": "Bernheze",
+"panden": 2298,
+"vbo": 1980,
+"kb": 80
+},
+"1723": {
+"naam": "Alphen-Chaam",
+"panden": 432,
+"vbo": 207,
+"kb": 16
+},
+"1724": {
+"naam": "Bergeijk",
+"panden": 1285,
+"vbo": 944,
+"kb": 49
+},
+"1728": {
+"naam": "Bladel",
+"panden": 1061,
+"vbo": 637,
+"kb": 37
+},
+"1729": {
+"naam": "Gulpen-Wittem",
+"panden": 199,
+"vbo": 268,
+"kb": 11
+},
+"1730": {
+"naam": "Tynaarlo",
+"panden": 594,
+"vbo": 415,
+"kb": 25
+},
+"1731": {
+"naam": "Midden-Drenthe",
+"panden": 1267,
+"vbo": 785,
+"kb": 47
+},
+"1734": {
+"naam": "Overbetuwe",
+"panden": 1153,
+"vbo": 1087,
+"kb": 44
+},
+"1735": {
+"naam": "Hof van Twente",
+"panden": 1003,
+"vbo": 867,
+"kb": 43
+},
+"1740": {
+"naam": "Neder-Betuwe",
+"panden": 1135,
+"vbo": 763,
+"kb": 40
+},
+"1742": {
+"naam": "Rijssen-Holten",
+"panden": 1123,
+"vbo": 848,
+"kb": 45
+},
+"1771": {
+"naam": "Geldrop-Mierlo",
+"panden": 600,
+"vbo": 441,
+"kb": 21
+},
+"1773": {
+"naam": "Olst-Wijhe",
+"panden": 874,
+"vbo": 422,
+"kb": 29
+},
+"1774": {
+"naam": "Dinkelland",
+"panden": 833,
+"vbo": 554,
+"kb": 35
+},
+"1783": {
+"naam": "Westland",
+"panden": 4098,
+"vbo": 3752,
+"kb": 152
+},
+"1842": {
+"naam": "Midden-Delfland",
+"panden": 346,
+"vbo": 392,
+"kb": 16
+},
+"1859": {
+"naam": "Berkelland",
+"panden": 1234,
+"vbo": 811,
+"kb": 47
+},
+"1876": {
+"naam": "Bronckhorst",
+"panden": 856,
+"vbo": 706,
+"kb": 36
+},
+"1883": {
+"naam": "Sittard-Geleen",
+"panden": 1162,
+"vbo": 2103,
+"kb": 59
+},
+"1884": {
+"naam": "Kaag en Braassem",
+"panden": 730,
+"vbo": 1202,
+"kb": 37
+},
+"1891": {
+"naam": "Dantumadiel",
+"panden": 264,
+"vbo": 305,
+"kb": 15
+},
+"1892": {
+"naam": "Zuidplas",
+"panden": 1086,
+"vbo": 1338,
+"kb": 44
+},
+"1894": {
+"naam": "Peel en Maas",
+"panden": 1125,
+"vbo": 757,
+"kb": 46
+},
+"1895": {
+"naam": "Oldambt",
+"panden": 1239,
+"vbo": 832,
+"kb": 45
+},
+"1896": {
+"naam": "Zwartewaterland",
+"panden": 694,
+"vbo": 778,
+"kb": 30
+},
+"1900": {
+"naam": "Súdwest-Fryslân",
+"panden": 1218,
+"vbo": 1779,
+"kb": 65
+},
+"1901": {
+"naam": "Bodegraven-Reeuwijk",
+"panden": 682,
+"vbo": 771,
+"kb": 30
+},
+"1903": {
+"naam": "Eijsden-Margraten",
+"panden": 591,
+"vbo": 520,
+"kb": 24
+},
+"1904": {
+"naam": "Stichtse Vecht",
+"panden": 810,
+"vbo": 2128,
+"kb": 51
+},
+"1911": {
+"naam": "Hollands Kroon",
+"panden": 2147,
+"vbo": 1549,
+"kb": 73
+},
+"1916": {
+"naam": "Leidschendam-Voorburg",
+"panden": 944,
+"vbo": 1581,
+"kb": 45
+},
+"1924": {
+"naam": "Goeree-Overflakkee",
+"panden": 2211,
+"vbo": 2314,
+"kb": 87
+},
+"1926": {
+"naam": "Pijnacker-Nootdorp",
+"panden": 1006,
+"vbo": 1651,
+"kb": 46
+},
+"1930": {
+"naam": "Nissewaard",
+"panden": 1622,
+"vbo": 2716,
+"kb": 69
+},
+"1931": {
+"naam": "Krimpenerwaard",
+"panden": 972,
+"vbo": 952,
+"kb": 41
+},
+"1940": {
+"naam": "De Fryske Marren",
+"panden": 1165,
+"vbo": 1324,
+"kb": 56
+},
+"1942": {
+"naam": "Gooise Meren",
+"panden": 643,
+"vbo": 846,
+"kb": 30
+},
+"1945": {
+"naam": "Berg en Dal",
+"panden": 1161,
+"vbo": 884,
+"kb": 41
+},
+"1948": {
+"naam": "Meierijstad",
+"panden": 3680,
+"vbo": 4200,
+"kb": 152
+},
+"1949": {
+"naam": "Waadhoeke",
+"panden": 1155,
+"vbo": 691,
+"kb": 43
+},
+"1950": {
+"naam": "Westerwolde",
+"panden": 532,
+"vbo": 386,
+"kb": 22
+},
+"1952": {
+"naam": "Midden-Groningen",
+"panden": 2133,
+"vbo": 1271,
+"kb": 68
+},
+"1954": {
+"naam": "Beekdaelen",
+"panden": 639,
+"vbo": 443,
+"kb": 26
+},
+"1955": {
+"naam": "Montferland",
+"panden": 888,
+"vbo": 764,
+"kb": 34
+},
+"1959": {
+"naam": "Altena",
+"panden": 1385,
+"vbo": 1286,
+"kb": 58
+},
+"1960": {
+"naam": "West Betuwe",
+"panden": 1100,
+"vbo": 925,
+"kb": 43
+},
+"1961": {
+"naam": "Vijfheerenlanden",
+"panden": 1965,
+"vbo": 1601,
+"kb": 73
+},
+"1963": {
+"naam": "Hoeksche Waard",
+"panden": 2168,
+"vbo": 2067,
+"kb": 79
+},
+"1966": {
+"naam": "Het Hogeland",
+"panden": 1912,
+"vbo": 1254,
+"kb": 65
+},
+"1969": {
+"naam": "Westerkwartier",
+"panden": 1664,
+"vbo": 1404,
+"kb": 68
+},
+"1970": {
+"naam": "Noardeast-Fryslân",
+"panden": 858,
+"vbo": 783,
+"kb": 37
+},
+"1978": {
+"naam": "Molenlanden",
+"panden": 1275,
+"vbo": 950,
+"kb": 49
+},
+"1979": {
+"naam": "Eemsdelta",
+"panden": 3541,
+"vbo": 2249,
+"kb": 118
+},
+"1980": {
+"naam": "Dijk en Waard",
+"panden": 2203,
+"vbo": 4130,
+"kb": 105
+},
+"1982": {
+"naam": "Land van Cuijk",
+"panden": 3852,
+"vbo": 2344,
+"kb": 141
+},
+"1991": {
+"naam": "Maashorst",
+"panden": 1566,
+"vbo": 1530,
+"kb": 67
+},
+"1992": {
+"naam": "Voorne aan Zee",
+"panden": 1427,
+"vbo": 2054,
+"kb": 64
+}
+}
+}
